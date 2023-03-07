@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<SynplifyOutput>
-	<result>Success</result>
-	<design>test_system</design>
-	<target_edif>D:\Projects\cubes\M2S010-MKR-KIT_FirstProj\synthesis\test_system.edn</target_edif>
-</SynplifyOutput>
