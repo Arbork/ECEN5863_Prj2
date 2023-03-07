@@ -1,0 +1,14 @@
+Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
+
+Date      :  Tue Aug 28 12:17:56 2018
+Project   :  D:\Projects\cubes\M2S010-MKR-KIT_FirstProj
+Component :  test_system
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/Projects/cubes/M2S010-MKR-KIT_FirstProj/component/work/test_system/test_system.vhd
+
+Stimulus files for all Simulation tools:
+    D:/Projects/cubes/M2S010-MKR-KIT_FirstProj/component/work/test_system/subsystem.bfm
+

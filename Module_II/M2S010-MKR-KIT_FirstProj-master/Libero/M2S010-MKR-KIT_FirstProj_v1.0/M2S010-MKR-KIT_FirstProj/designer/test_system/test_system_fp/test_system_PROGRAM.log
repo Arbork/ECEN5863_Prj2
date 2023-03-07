@@ -1,0 +1,36 @@
+Software Version: 11.9.0.4
+Embedded FlashPro5 programmer detected.
+programmer 'E2001942RA' : FlashPro5
+Opened 'D:\Projects\cubes\M2S010-MKR-KIT_FirstProj\designer\test_system\test_system_fp\test_system.pro'
+The 'open_project' command succeeded.
+IPD file 'D:/Projects/cubes/M2S010-MKR-KIT_FirstProj/designer/test_system/test_system.ipd' has been loaded successfully.
+DESIGN : test_system;  CHECKSUM : 4BBD;  PDB_VERSION : 1.9
+The 'set_programming_file' command succeeded.
+Warning: Programming is already enabled for device 'M2S010'.
+The 'enable_device' command succeeded.
+The 'set_programming_action' command succeeded.
+programmer 'E2001942RA' : Scan Chain...
+programmer 'E2001942RA' : Check Chain...
+programmer 'E2001942RA' : Scan and Check Chain PASSED.
+programmer 'E2001942RA' : device 'M2S010' : Executing action PROGRAM
+programmer 'E2001942RA' : device 'M2S010' : Family: Igloo2
+programmer 'E2001942RA' : device 'M2S010' : Product:      M2GL005
+programmer 'E2001942RA' : device 'M2S010' : EXPORT ISC_ENABLE_RESULT[32] = 00806d44
+programmer 'E2001942RA' : device 'M2S010' : EXPORT CRCERR[1] = 0
+programmer 'E2001942RA' : device 'M2S010' : EXPORT EDCERR[1] = 0
+programmer 'E2001942RA' : device 'M2S010' : Programming FPGA Array...
+programmer 'E2001942RA' : device 'M2S010' : ===================================================================================
+programmer 'E2001942RA' : device 'M2S010' : EXPORT DSN[128] = e3d8fa2293c828ecf29c352c9ee5b29d
+programmer 'E2001942RA' : device 'M2S010' : ===================================================================================
+programmer 'E2001942RA' : device 'M2S010' : Finished: Tue Aug 28 12:23:24 2018 (Elapsed time 00:00:23)
+programmer 'E2001942RA' : device 'M2S010' : Executing action PROGRAM PASSED.
+programmer 'E2001942RA' : Chain programming PASSED.
+Chain Programming Finished: Tue Aug 28 12:23:24 2018 (Elapsed time 00:00:23)
+
+                        o - o - o - o - o - o
+
+The 'run_selected_actions' command succeeded.
+The 'set_programming_file' command succeeded.
+Project saved.
+The 'save_project' command succeeded.
+Project closed.
